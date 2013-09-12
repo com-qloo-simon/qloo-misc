@@ -1,4 +1,4 @@
-package misc;
+package example.hadoop.cassandra;
 
 import java.io.IOException;
 import java.nio.ByteBuffer;

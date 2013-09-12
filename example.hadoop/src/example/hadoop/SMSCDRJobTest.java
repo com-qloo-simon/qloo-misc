@@ -1,4 +1,4 @@
-package misc;
+package example.hadoop;
 
 import java.io.IOException;
 import java.util.ArrayList;

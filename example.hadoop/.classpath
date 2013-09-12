@@ -21,5 +21,9 @@
 	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/hadoop/lib/jackson-core-asl-1.0.1.jar"/>
 	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/hadoop/lib/jackson-mapper-asl-1.0.1.jar"/>
 	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/hadoop/lib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/qloo.data.util"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/cassandra/lib/cassandra-all-1.1.9.3.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/cassandra/lib/cassandra-clientutil-1.1.9.3.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/cassandra/lib/cassandra-thrift-1.1.9.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,4 +1,4 @@
-package misc;
+package example.hadoop;
 
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.Text;

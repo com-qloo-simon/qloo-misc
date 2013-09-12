@@ -1,4 +1,4 @@
-package misc;
+package example.hadoop.cassandra;
 
 import java.io.IOException;
 import java.nio.ByteBuffer;
@@ -16,6 +16,8 @@ import org.apache.hadoop.mrunit.mapreduce.MapReduceDriver;
 import org.apache.hadoop.mrunit.mapreduce.ReduceDriver;
 import org.junit.Before;
 import org.junit.Test;
+
+import example.hadoop.SMSCDRReducer;
 
 
 public class WordCountJobTest { 
