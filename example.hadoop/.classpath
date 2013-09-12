@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/dse/lib/guava-13.0.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/dse/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/dse/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/dse/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/hadoop/hadoop-core-1.0.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/hadoop/hadoop-examples-1.0.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/hadoop/hadoop-fairscheduler-0.20.203.1-brisk1.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/hadoop/hadoop-streaming-1.0.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/hadoop/hadoop-test-1.0.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/hadoop/hadoop-tools-1.0.4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/mrunit-1.0.0-hadoop1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/cassandra/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/mockito-all-1.9.5.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/hadoop/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/hadoop/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/hadoop/lib/jackson-core-asl-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/hadoop/lib/jackson-mapper-asl-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/dse-3.0.1/resources/hadoop/lib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/mahout-distribution-0.7/mahout-core-0.7.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/mahout-distribution-0.7/mahout-integration-0.7.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/mahout-distribution-0.7/mahout-math-0.7.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/mahout-distribution-0.7/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/mahout-distribution-0.7/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/mahout-distribution-0.7/lib/slf4j-log4j12-1.6.1.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/qloo.data.graph"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/qloo.data.cassandra"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/qloo.data.util"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/astyanax/astyanax-cassandra/build/libs/astyanax-cassandra-1.56.40-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/astyanax/astyanax-core/build/libs/astyanax-core-1.56.40-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/astyanax/astyanax-thrift/build/libs/astyanax-thrift-1.56.40-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/qloo/work/netflix-graph/build/libs/netflix-graph-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
